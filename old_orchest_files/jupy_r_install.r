@@ -1,0 +1,1 @@
+install.packages("languageserver", dependencies = TRUE, repos="http://cran.rstudio.com/")
